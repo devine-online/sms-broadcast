@@ -18,7 +18,8 @@
     </a>
 </p>
 
-This package makes it easy to send notifications using [Sms Broadcast](https://www.smsbroadcast.com.au/) with Laravel > 5.6 & 6.0.
+This package makes it easy to send notifications using [Sms Broadcast](https://www.smsbroadcast.com.au/) with Laravel 8
+This is a fork for laravel 8 support, original info below:
 
 It uses my [Sms Broadcast PHP package](https://github.com/atymic/sms-broadcast-php) under the hood.
 
