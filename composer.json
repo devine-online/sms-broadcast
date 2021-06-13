@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.3",
-        "atymic/sms-broadcast": "^1.0",
+        "devineonline/smsbroadcast": "^8.0",
         "illuminate/notifications": "^8.0",
         "illuminate/support": "^8.0"
     },
