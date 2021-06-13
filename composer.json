@@ -1,5 +1,5 @@
 {
-    "name": "devineonline/sms-broadcast",
+    "name": "devineonline/smsbroadcast-laravel-notifcation-channel",
     "description": "SMS Broadcast Notification Channel",
     "homepage": "http://laravel-notification-channels.com/",
     "license": "MIT",
