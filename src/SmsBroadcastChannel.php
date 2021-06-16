@@ -2,7 +2,7 @@
 
 namespace NotificationChannels\SmsBroadcast;
 
-use Atymic\SmsBroadcast\Api\Client;
+use DevineOnline\SmsBroadcast\Api\Client;
 use Illuminate\Notifications\Notification;
 
 class SmsBroadcastChannel

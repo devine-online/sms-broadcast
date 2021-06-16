@@ -2,8 +2,8 @@
 
 namespace NotificationChannels\SmsBroadcast;
 
-use Atymic\SmsBroadcast\Api\Client;
-use Atymic\SmsBroadcast\Factory\ClientFactory;
+use DevineOnline\SmsBroadcast\Api\Client;
+use DevineOnline\SmsBroadcast\Factory\ClientFactory;
 use Illuminate\Support\ServiceProvider;
 
 class SmsBroadcastServiceProvider extends ServiceProvider
